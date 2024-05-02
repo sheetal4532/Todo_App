@@ -1,0 +1,3 @@
+pwd  ->enter
+cd my-app ->enter
+npm start  ->enter

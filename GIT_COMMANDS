@@ -1,0 +1,7 @@
+<!-- if react project is push on github  -->
+1.start the terminal
+2.write git status ,enter
+3. git add * (add all) ,enter
+4.git commit -m "testing git commit" ,enter
+5.git status ,enter
+6. git push -u origin main
